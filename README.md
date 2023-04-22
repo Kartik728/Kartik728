@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/titantweaks" target="blank"><img src="https://img.shields.io/twitter/follow/titantweaks?logo=twitter&style=for-the-badge" alt="titantweaks" /></a> </p>
 
-- 🔭 I’m currently working on **StagOS**
+- 🔭 I’m currently working on **Realme 3 Pro [RMX1851] Device**
 
 - 🌱 I’m currently learning **C, C++**
 
