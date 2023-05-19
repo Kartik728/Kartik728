@@ -1,5 +1,5 @@
 <h1 align="center">Hi There, myself Kartik Verma</h1>
-<h3 align="center">A passionate & noob developer from India</h3>
+<h3 align="center">A NOOB person who is curious to learn new things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartik728&label=Profile%20views&color=0e75b6&style=flat" alt="kartik728" /> </p>
 
@@ -9,15 +9,13 @@
 
 - 🔭 I’m currently working on **Realme 3 Pro [RMX1851] Device**
 
-- 🌱 I’m currently learning **C, C++**
+- 🌱 I’m looking forward on learning programming languages like C, C++
 
-- 👨‍💻 All of my projects are available at [github.com/TITAN-PROJECTS](github.com/TITAN-PROJECTS)
+- 👨‍💻 All of my projects are available at <a href="github.com/TITAN-PROJECTS">TITΛN-PROJECTS</a>
 
-- 💬 Ask me about **Bash**
+- 📫 You can reach me on my email **titanupdates728@gmail.com**
 
-- 📫 How to reach me **titanupdates728@gmail.com**
-
-- ⚡ Not a Fun Fact **I am 15 yr old ya a kiddo.**
+- Check my detail-full bio at <a href="https://t.me/Kartikinfo">Telegram</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
