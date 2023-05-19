@@ -11,7 +11,7 @@
 
 - 🌱 I’m looking forward on learning programming languages like C, C++
 
-- 👨‍💻 All of my projects are available at <a href="github.com/TITAN-PROJECTS">TITΛN-PROJECTS</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/TITAN-PROJECTS">TITΛN-PROJECTS</a>
 
 - 📫 You can reach me on my email **titanupdates728@gmail.com**
 
